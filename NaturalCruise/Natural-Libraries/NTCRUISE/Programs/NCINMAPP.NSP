@@ -49,7 +49,7 @@ LOCAL                    /* variables for user exit USR0020N
   02 S-FOUND      (L)   INIT <FALSE>  /*  TRUE = 'Short text found'
   02 L-FOUND      (L)   INIT <FALSE>  /*  TRUE = 'Long text found'
   02 SHORT-TEXT   (A65)
-  02 LONG-TEXT    (A78/01:20)
+  02 LONG-TEXT    (A78/01:20) /* komm.
 END-DEFINE
 /*
 FORMAT LS=100
